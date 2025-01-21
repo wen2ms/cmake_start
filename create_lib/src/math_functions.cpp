@@ -8,7 +8,7 @@ float subtract(float a, float b) {
     return a - b;
 }
 
-float mutiply(float a, float b) {
+float multiply(float a, float b) {
     return a * b;
 }
 
